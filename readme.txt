@@ -65,4 +65,3 @@ http://html5.svnlabs.com/faq/
 3. HTML5 MP3 Player with Preview
 
 == Changelog ==
-
