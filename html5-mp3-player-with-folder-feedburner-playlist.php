@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: HTML5 MP3 Player with Folder Feedburner Playlist 
-Plugin URI: http://html5plus.svnlabs.com/shop/amazon-cloudfront-html5-video-player-with-playlist/
-Description: Amazon CloudFront is a web service for content delivery. It provides distribute content to end users with low latency, high data transfer speeds, and no commitments. This plugin generate a signed expiring link for iPad, Android and other mobile devices from a Cloudfront Public/Private Bucket. 
-Version: 1.0.7
+Plugin URI: http://html5plus.svnlabs.com/shop/html5-mp3-player-for-folder/
+Description: WordPress and Standalone HTML5 MP3 Music Player with Playlist for MP3 Folder / Feedburner XML compatible with iOS, Android and supports all browsers Firefox, Chrome, Safari, IE and Opera!
+Version: 1.0.6
 Author: Sandeep Verma
-Author URI: http://html5plus.svnlabs.com/shop/amazon-cloudfront-html5-video-player-with-playlist/
+Author URI: http://html5plus.svnlabs.com/shop/html5-mp3-player-for-folder/
 */ 
 
 
