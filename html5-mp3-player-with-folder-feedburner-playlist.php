@@ -263,7 +263,7 @@ if (!extension_loaded('curl') && !@dl(PHP_SHLIB_SUFFIX == 'so' ? 'curl.so' : 'ph
         <th scope="row" valign="top"><label for="player">ID3 Tag Enabled?:</label></th>
         
         <td>
-        <input name="id3" type="checkbox" <?php if($id3==1) { ?> checked="checked" <?php } ?> value="1"  />
+        <input name="id3" type="checkbox" <?php if($id3==1) { ?> checked="checked" <?php } ?> value="1"  /> (Paid Version)
         </td>
       </tr>
       
@@ -283,7 +283,7 @@ if (!extension_loaded('curl') && !@dl(PHP_SHLIB_SUFFIX == 'so' ? 'curl.so' : 'ph
         <th scope="row" valign="top"><label for="player">Player Autoplay:</label></th>
         
         <td>
-        <input name="autoplay" type="checkbox" <?php if($autoplay==1) { ?> checked="checked" <?php } ?> value="1"  />
+        <input name="autoplay" type="checkbox" <?php if($autoplay==1) { ?> checked="checked" <?php } ?> value="1"  /> (Paid Version)
         </td>
       </tr>
       
@@ -293,7 +293,7 @@ if (!extension_loaded('curl') && !@dl(PHP_SHLIB_SUFFIX == 'so' ? 'curl.so' : 'ph
         <th scope="row" valign="top"><label for="player">Downloads:</label></th>
         
         <td>
-        <input name="download" type="checkbox" <?php if($download==1) { ?> checked="checked" <?php } ?> value="1"  />
+        <input name="download" type="checkbox" <?php if($download==1) { ?> checked="checked" <?php } ?> value="1"  /> (Paid Version)
         </td>
       </tr>
       
@@ -359,7 +359,7 @@ if (!extension_loaded('curl') && !@dl(PHP_SHLIB_SUFFIX == 'so' ? 'curl.so' : 'ph
         <th scope="row" valign="top"><label for="player">Facebook:</label></th>
         
         <td>
-        <input name="facebook" id="facebook" type="text" class="regular-text" value="<?php echo $facebook; ?>" />
+        <input name="facebook" id="facebook" type="text" class="regular-text" value="<?php echo $facebook; ?>" /> (Paid Version)
         </td>
       </tr>
       
@@ -367,7 +367,7 @@ if (!extension_loaded('curl') && !@dl(PHP_SHLIB_SUFFIX == 'so' ? 'curl.so' : 'ph
         <th scope="row" valign="top"><label for="player">Twitter:</label></th>
         
         <td>
-        <input name="twitter" id="twitter" type="text" class="regular-text" value="<?php echo $twitter; ?>" />
+        <input name="twitter" id="twitter" type="text" class="regular-text" value="<?php echo $twitter; ?>" />  (Paid Version)
         </td>
       </tr>
       
@@ -474,6 +474,7 @@ foreach($vars as $k=>$v)
 else
 { */	 
 
+if($k!="id")
  $prms .= $k."=".get_option("folder-feed-html5-player-".$k)."&";
  
 //}
