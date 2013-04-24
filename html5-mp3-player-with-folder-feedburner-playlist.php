@@ -402,6 +402,7 @@ $prms = ' ';
 foreach($vars as $k=>$v)
 {
 
+if($k!="id")
  $prms .= $k.'="'.get_option("folder-feed-html5-player-".$k).'" ';
   
 }  
