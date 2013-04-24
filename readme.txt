@@ -8,19 +8,28 @@ Stable tag: 1.0.6
 
 == Description ==
 
-WordPress and Standalone HTML5 MP3 Music Player with Playlist for MP3 Folder compatible with iOS, Android and supports all browsers Firefox, Chrome, Safari, IE and Opera!
+WordPress and Standalone HTML5 MP3 Music Player with Playlist for MP3 Folder / Feedburner XML compatible with iOS, Android and supports all browsers Firefox, Chrome, Safari, IE and Opera!
 
 **Features**
 
-* Folder: MP3 Songs folder
+* Folder: MP3 Songs folder or Feedburner XML
 * Prev / Loop / Next in playlist
 * Embed full playlist
 * Customize social link
 
+**Paid Features**
 
-[HTML5 MP3 Player for Folder](http://html5plus.svnlabs.com/shop/html5-mp3-player-for-folder/)
+* Self hosted player files
+* Best support on email
+* Download songs option 
+* MP3 Song's information using ID3 Tags
+* Customize Social Share on Facebook & Twitter
+* Volume Control
 
-[HTML5 MP3 Player for Feedburner Podcast](http://html5plus.svnlabs.com/shop/html5-mp3-player-for-feedburner-podcast/)
+
+[Buy Now HTML5 MP3 Player for Folder](http://html5plus.svnlabs.com/shop/html5-mp3-player-for-folder/)
+
+[Buy Now HTML5 MP3 Player for Feedburner Podcast](http://html5plus.svnlabs.com/shop/html5-mp3-player-for-feedburner-podcast/)
 
 
 == Installation ==
@@ -36,11 +45,11 @@ http://www.domain.com/mp3/ (public) or http://www.domain.com/mp3/list.php (priva
 
 Shortcode for Page or Post
 
-[html5folderfeed id="1"]
+[html5folderfeed id="1"]   (in Paid Version)
 
 Or
 
-[html5folderfeed id="1" folderfeedlink="http://localhost/songs/" sourcetype="folder" player="horizontal" bcolor="cccccc" id3="1" image="http://svnlabs.com/logo.png" title="Folder Player" artist="Sandeep" facebook="http://www.facebook.com/svnlab" twitter="http://twitter.com/svnlabs" shadow="1" autoplay="1" download="1" background="ffffff" ]
+[html5folderfeed folderfeedlink="http://localhost/songs/" sourcetype="folder" player="horizontal" bcolor="cccccc" id3="1" image="http://svnlabs.com/logo.png" title="Folder Player" artist="Sandeep" facebook="http://www.facebook.com/svnlab" twitter="http://twitter.com/svnlabs" shadow="1" autoplay="1" download="1" background="ffffff" ]
 
 
 == Frequently Asked Questions ==
