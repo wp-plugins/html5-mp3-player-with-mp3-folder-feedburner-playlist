@@ -432,16 +432,20 @@ $pluginurl	=	plugin_dir_url( __FILE__ );
 ?>
 <br />
 
-<?php /*?><hr />
+<hr />
 
 <h3>Embed Anywhere</h3>
 
-<textarea cols="60" rows="10" onFocus="this.select();" style="border:1px dotted #343434" ><?php echo $iframe; ?></textarea><?php */?>
+<textarea cols="60" rows="10" onFocus="this.select();" style="border:1px dotted #343434" >(Paid Version Option)<?php //echo $iframe; ?></textarea>
+
+<br />
+<br />
 
 <!-- Paypal etc.  -->
 
 <strong>Get Pro Version <a href="http://html5plus.svnlabs.com/shop/html5-mp3-player-for-folder/" target="_blank">HTML5 MP3 Player with Folder Feedburner Playlist</a></strong>
 
+<br />
 <br />
 
 
