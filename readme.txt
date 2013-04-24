@@ -25,6 +25,7 @@ WordPress and Standalone HTML5 MP3 Music Player with Playlist for MP3 Folder / F
 * MP3 Song's information using ID3 Tags
 * Customize Social Share on Facebook & Twitter
 * Volume Control
+* Embed Code Option
 
 
 [Buy Now HTML5 MP3 Player for Folder](http://html5plus.svnlabs.com/shop/html5-mp3-player-for-folder/)
