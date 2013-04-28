@@ -50,7 +50,7 @@ Shortcode for Page or Post
 
 Or
 
-[html5folderfeed folderfeedlink="http://localhost/songs/" sourcetype="folder" player="horizontal" bcolor="cccccc" id3="1" image="http://svnlabs.com/logo.png" title="Folder Player" artist="Sandeep" facebook="http://www.facebook.com/svnlab" twitter="http://twitter.com/svnlabs" shadow="1" autoplay="1" download="1" background="ffffff" ]
+[html5folderfeed id="" folderfeedlink="http://localhost/songs/" sourcetype="folder" player="horizontal" bcolor="cccccc" id3="1" image="http://svnlabs.com/logo.png" title="Folder Player" artist="Sandeep" facebook="http://www.facebook.com/svnlab" twitter="http://twitter.com/svnlabs" shadow="1" autoplay="1" download="1" background="ffffff" ]
 
 
 == Frequently Asked Questions ==
