@@ -65,4 +65,9 @@ http://html5.svnlabs.com/faq/
 
 3. HTML5 MP3 Player with Preview
 
+4. MP3 Folder Index
+
+== Support ==
+For support please visit http://html5plus.svnlabs.com/contact-us/support/
+
 == Changelog ==
