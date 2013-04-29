@@ -10,6 +10,19 @@ Stable tag: 1.0.6
 
 WordPress and Standalone HTML5 MP3 Music Player with Playlist for MP3 Folder / Feedburner XML compatible with iOS, Android and supports all browsers Firefox, Chrome, Safari, IE and Opera!
 
+**Read MP3 Folder URL**
+
+This plugin can read MP3 folder like http://www.domain.com/mp3/ and automatically create dynamic horizontal & vertical playlist 
+
+MP3 Folder with song's index list
+http://www.domain.com/mp3/ (public) or http://www.domain.com/mp3/list.php (private)
+
+
+**Read Feedburner URL**
+
+This plugin can read feedburner url like http://feeds.feedburner.com/thejustinwayneshow and automatically create dynamic horizontal & vertical playlist  
+
+
 **Features**
 
 * Folder: MP3 Songs folder or Feedburner XML
