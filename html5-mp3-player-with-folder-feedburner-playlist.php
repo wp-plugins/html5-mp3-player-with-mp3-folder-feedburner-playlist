@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 /*
 Plugin Name: HTML5 MP3 Player with Folder Feedburner Playlist 
 Plugin URI: http://html5plus.svnlabs.com/shop/html5-mp3-player-for-folder/
