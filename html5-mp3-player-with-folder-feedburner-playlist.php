@@ -212,8 +212,7 @@ if($show == "list")
   <?php
   
   // Check for CURL
-if (!extension_loaded('curl') && !@dl(PHP_SHLIB_SUFFIX == 'so' ? 'curl.so' : 'php_curl.dll'))
-	exit("\nERROR: CURL extension not loaded\n\n");
+//if (!extension_loaded('curl') && !@dl(PHP_SHLIB_SUFFIX == 'so' ? 'curl.so' : 'php_curl.dll')) 	exit("\nERROR: CURL extension not loaded\n\n");
   
   
   ?>
