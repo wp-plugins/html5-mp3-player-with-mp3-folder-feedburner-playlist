@@ -8,7 +8,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 Plugin Name: HTML5Tap Free
 Plugin URI: http://www.html5tap.com
 Description: HTML5Tap Players enable native audio playback within the browser. It supports all browsers i.e. iOS, Android, Firefox, Chrome, Safari, IE and Opera.
-Version: 1.6
+Version: 2.3
 Author: SVNLabs Softwares
 Author URI: http://www.html5tap.com
 License: GPLv2
