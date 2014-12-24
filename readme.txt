@@ -2,8 +2,8 @@
 Contributors: Sandeep Verma
 Tags: MP3 Folder Player, Feedburner Player, HTML5 Player
 Requires at least: 2.0
-Tested up to: 4.0
-Stable tag: 1.0.6
+Tested up to: 4.1
+Stable tag: 2.3
 
 
 == Description ==
@@ -59,12 +59,7 @@ http://www.domain.com/mp3/ (public) or http://www.domain.com/mp3/list.php (priva
 
 Shortcode for Page or Post
 
-[html5folderfeed id="1"]   (in Paid Version)
-
-Or
-
-[html5folderfeed id="" folderfeedlink="http://localhost/songs/" sourcetype="folder" player="horizontal" bcolor="cccccc" id3="1" image="http://svnlabs.com/logo.png" title="Folder Player" artist="Sandeep" facebook="http://www.facebook.com/svnlab" twitter="http://twitter.com/svnlabs" shadow="1" autoplay="1" download="1" background="ffffff" ]
-
+[html5tap id=1]
 
 == Frequently Asked Questions ==
 
@@ -73,12 +68,6 @@ http://html5.svnlabs.com/faq/
 == Screenshots ==
 
 1. HTML5 MP3 Folder Media Stream Player 
-
-2. HTML5 Folder / Feedburner Player Settings
-
-3. HTML5 MP3 Player with Preview
-
-4. MP3 Folder Index
 
 == Support ==
 For support please visit http://html5plus.svnlabs.com/contact-us/support/
