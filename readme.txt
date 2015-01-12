@@ -67,7 +67,9 @@ http://html5.svnlabs.com/faq/
 
 == Screenshots ==
 
-1. HTML5 MP3 Folder Media Stream Player 
+1. Add New HTML5Tap Playlist
+2. Input MP3 Source & hit Capture
+3. Save & Get Shortcode for page / post 
 
 == Support ==
 For support please visit http://html5plus.svnlabs.com/contact-us/support/
