@@ -1,4 +1,4 @@
-=== HTML5 MP3 Player with Folder Feedburner Playlist  ===
+=== HTML5 MP3 Player with Folder Feedburner Playlist Free ===
 Contributors: Sandeep Verma
 Tags: MP3 Folder Player, Feedburner Player, HTML5 Player
 Requires at least: 2.0
