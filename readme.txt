@@ -28,7 +28,6 @@ This plugin can read feedburner url like http://feeds.feedburner.com/thejustinwa
 * Folder: MP3 Songs folder or Feedburner XML
 * Prev / Loop / Next in playlist
 * Embed full playlist
-* Customize social link
 
 **Paid Features**
 
